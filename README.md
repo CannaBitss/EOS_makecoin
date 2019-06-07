@@ -24,5 +24,6 @@ executed transaction: 447f7910dcb324a7faf1d619e194e81aa058bb9c99048380b418a11f86
   andygogogogo <= makecoinhere::transfer       {"from":"makecoinbyme","to":"andygogogogo","quantity":"10000.00 SGCC","memo":"issue"}
 
 $ cleos -u https://api.kylin.alohaeos.com get currency balance makecoinhere andygogogogo SGCC
+
 10000.00 SGCC
 
